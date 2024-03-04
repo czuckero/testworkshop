@@ -33,7 +33,8 @@ Functional Tests:
    - The user inputs their delivery options
    - The feature takes them to the payment options
    - The user inputs their payment method
-   - The feature shows them a summary of their order with the items in the cart, delivery info, and payment method displayed as well as the total.
+   - The feature shows them a summary of their order with the items in the cart, delivery info, and payment method displayed as well as the total
+   - User has the option of going back to the main site to add more items
 
    - If there is nothing in the shopping cart, the user should be notified and the checkout button won't work
    - If the user inputs an invalid delivery information or payment method it will return an error and not allow the user to checkout.
